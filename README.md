@@ -39,6 +39,3 @@ Users should be able to:
 - Flexbox
 - CSS grid
 - Mobile-first workflow
-
-
-Translated with www.DeepL.com/Translator (free version)# Advice-Generator-App
