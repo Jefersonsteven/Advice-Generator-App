@@ -4,7 +4,7 @@ This is a solution to the [Hint Generator Application Challenge on Frontend Ment
 
 ## Table of Contents
 
-- Summary](#summary)
+- Summary
   - The challenge](#the-challenge)
   - Screenshot](#screenshot)
   - Links](#links)
