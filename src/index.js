@@ -50,7 +50,7 @@ const randomTips = async () => {
     .then( response => response.json())
     .then(({ slip }) => {
       numberAdvice[0].textContent = `ADVICE #${slip.id}`
-      advice[0].textContent = slip.advice
+      advice[0].textContent = `“${slip.advice}”`;
     })
 }
 
