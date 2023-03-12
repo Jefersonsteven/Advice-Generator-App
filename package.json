@@ -1,0 +1,19 @@
+{
+  "name": "advice-generator-app",
+  "version": "1.0.0",
+  "description": "Generador de frases ramdom",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass js react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jefersonsteven/Advice-Generator-App.git"
+  },
+  "author": "Jefferson Steven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jefersonsteven/Advice-Generator-App/issues"
+  },
+  "homepage": "https://github.com/Jefersonsteven/Advice-Generator-App#readme"
+}
